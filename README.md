@@ -1,4 +1,4 @@
-![KakaoTalk_20210426_134752865](https://user-images.githubusercontent.com/78187434/116030213-0ab6f600-a696-11eb-8962-1a4b57aa8a36.jpg)
+![KakaoTalk_20210426_135041337](https://user-images.githubusercontent.com/78187434/116030412-70a37d80-a696-11eb-98bf-c028f03dc0f3.jpg)
 ## 학력
 - 2018: 연세대학교 미래캠퍼스 컴퓨터정보통신공학부 재학 중
 
