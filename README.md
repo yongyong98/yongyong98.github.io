@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## 학력
+- 2018: 연세대학교 미래캠퍼스 컴퓨터정보통신공학부 재학 중
 
-You can use the [editor on GitHub](https://github.com/yongyong98/yongyong98.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## 분야
+- Machine Learning, Deep Learning, Object Detection, NLP
+- DB: MongoDB, Mysql
+- 가능 언어: C/C++, Python
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yongyong98/yongyong98.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## 활동내역
+- 2018: 연세대학교 미래캠퍼스 컴퓨터정보통신공학부 학생회 수습부원
+- 2018: 연세대학교 머레이 배 족구 대회 우승 (전 경기 출전)
+- 2018: 연세대학교 리베로 배 학부 축구 대회 참여(후보선수 0회 출전)
+- 2019: 연세대학교 미래캠퍼스 컴퓨터정보통신공학부 학생회 기획부 차장
+- 2019: 연세대학교 미래캠퍼스 ROTC 60기 후보생(무릎 부상 중도 포기)
+- 2020: 연세대학교 데이터베이스 교육과정 수료
+- 2020: 연세대학교 미래캠퍼스 Computer Programming 조교
+- 2020: 연세대학교 미래캠퍼스 우수 학부생
+- 2021: 연세대학교 미래캠퍼스 Business Programming 조교
+- 2021: AI 기업 인턴(6개월)
+- 2021: 연세대학교 미래캠퍼스 소프트디지털헬스대학 선거 관리위원
+- 2021: CNN을 이용한 Mnist Image Clsassification 대회 참여(5등, Dacon)
+- 2021: YOLOv4를 이용한 객체 탐지(OCR detect)
+- 2021: YOLOv4 Javascript 구현
+- 2021: Multi label Image Classification 대회 참여(kaggle)
+- 2021: pose estimation을 이용한 야구 선수 자세 탐지
+- 2021: Bert를 이용한 문맥 감정 표현 
+- 2021: AWS instance Mongodb 구축
+- 2021: Multi label classification 대회 참여(Kaggle)
+- 2021: Web crawling을 이용한 League of Legend 사용자 전적 검색 프로그램 개발
+- 2021: Web crawling을 이용한 instagram 팔로워 변동 탐지 프로그램 개발 
