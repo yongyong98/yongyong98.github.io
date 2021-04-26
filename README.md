@@ -23,7 +23,7 @@
 - 2021: YOLOv4 Javascript 구현
 - 2021: Multi label Image Classification 대회 참여(kaggle)
 - 2021: pose estimation을 이용한 야구 선수 자세 탐지
-- 2021: Bert를 이용한 문맥 감정 표현 
+- 2021: Bert를 이용한 문맥 감정 
 - 2021: AWS instance Mongodb 구축
 - 2021: Multi label classification 대회 참여(Kaggle)
 - 2021: Web crawling을 이용한 League of Legend 사용자 전적 검색 프로그램 개발
