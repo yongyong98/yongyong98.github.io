@@ -28,3 +28,4 @@
 - 2021: Multi label classification 대회 참여(Kaggle)
 - 2021: Web crawling을 이용한 League of Legend 사용자 전적 검색 프로그램 개발
 - 2021: Web crawling을 이용한 instagram 팔로워 변동 탐지 프로그램 개발 
+- 2021: Image Classification javascript API 개발
