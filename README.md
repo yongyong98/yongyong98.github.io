@@ -20,7 +20,7 @@
 - 2021: 연세대학교 미래캠퍼스 소프트디지털헬스대학 선거 관리위원
 - 2021: CNN을 이용한 Mnist Image Clsassification 대회 참여(5등, Dacon)
 - 2021: YOLOv4를 이용한 객체 탐지(OCR detect)
-- 2021: YOLOv4 Javascript 구현
+- 2021: YOLOv4 Javascript API 구현
 - 2021: Multi label Image Classification 대회 참여(kaggle)
 - 2021: pose estimation을 이용한 야구 선수 자세 탐지
 - 2021: Bert를 이용한 문맥 감정 
