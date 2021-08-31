@@ -31,3 +31,4 @@
 - 2021: Image Classification javascript API 개발
 - 2021: Mongodb REST API 개발
 - 2021: Mask 착용 Video Object detection model 개발
+- 2021: 연세대학교 홈페이지 관리
