@@ -11,14 +11,14 @@
 - 2018: 연세대학교 미래캠퍼스 컴퓨터정보통신공학부 학생회 수습부원
 - 2018: 연세대학교 머레이 배 족구 대회 우승
 - 2019: 연세대학교 미래캠퍼스 컴퓨터정보통신공학부 학생회 기획부 차장
-- 2019: 연세대학교 미래캠퍼스 ROTC 60기 후보생(무릎 부상 중도 포기)
+- 2019: 연세대학교 미래캠퍼스 ROTC 60기 후보생
 - 2020: 연세대학교 데이터베이스 교육과정 수료
 - 2020: 연세대학교 미래캠퍼스 Computer Programming 조교
 - 2020: 연세대학교 미래캠퍼스 우수 학부생
 - 2021: 연세대학교 미래캠퍼스 Business Programming 조교
 - 2021: AI 기업 인턴(6개월)
 - 2021: 연세대학교 미래캠퍼스 소프트디지털헬스대학 선거 관리위원
-- 2021: CNN을 이용한 Mnist Image Clsassification 대회 참여(5등, Dacon)
+- 2021: CNN을 이용한 Mnist Image Clsassification 대회 참여
 - 2021: YOLOv4를 이용한 객체 탐지(OCR detect)
 - 2021: YOLOv4 Javascript API 구현
 - 2021: Multi label Image Classification 대회 참여(kaggle)
