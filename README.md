@@ -32,3 +32,4 @@
 - 2021: Mongodb REST API 개발
 - 2021: Mask 착용 Video Object detection model 개발
 - 2021: 연세대학교 홈페이지 관리
+- 2021: 연세대학교 인공지능 챌린지 2등 (object detection)
